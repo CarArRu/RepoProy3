@@ -23,6 +23,7 @@ int main(void){
 
     printf("\nAportacion 1 de Master");
     goto PunterosDobles;
+    printf("\nAportacion 2 de Master");
     goto ReturnFuncion;
     goto ContinueBrake1;
     goto ContinueBrake2;
