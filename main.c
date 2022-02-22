@@ -39,6 +39,9 @@ int main(void){
     ///VariableExterna=123456;
     printf("\nValor de la variable externa es: %d", VariableExterna);
 
+
+    printf("\nAportación 3 del Developer1");
+
     /// Operaciones con Case
     OperacionesCase = Op3;
     Doble Gato=98.174;
