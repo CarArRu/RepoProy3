@@ -21,6 +21,7 @@ bool Condicion;
 
 int main(void){
 
+    printf("\nAportacion 1 de Master");
     goto PunterosDobles;
     goto ReturnFuncion;
     goto ContinueBrake1;
