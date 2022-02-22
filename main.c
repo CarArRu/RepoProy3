@@ -31,7 +31,7 @@ int main(void){
 
     goto ContinueBrake4;
 
-
+    printf("\nAportación 2 del Developer1");
 
     printf("\nStatic");
     for(StaticVar.i=0;StaticVar.i<5;StaticVar.i++)
